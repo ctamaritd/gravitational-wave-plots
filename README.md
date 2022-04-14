@@ -1,2 +1,2 @@
 # gravitational-wave-plots
- Data, plots and code for constraints on axions, axion-like particles, and dark photons 
+Plots for gravitational wave constraints, and corresponding data files 
